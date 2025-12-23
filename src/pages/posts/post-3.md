@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 私の3番目のブログ記事
 pubDate: 2022-07-15
 description: "上手くいかないことがありましたが、コミュニティに質問して助けてもらいました！"
